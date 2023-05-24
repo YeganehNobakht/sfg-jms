@@ -1,1 +1,8 @@
+com\bmc\sfgjms\config\TaskConfig.class
+com\bmc\sfgjms\model\HelloWorldMessage.class
+com\bmc\sfgjms\sender\HelloSender.class
+com\bmc\sfgjms\model\HelloWorldMessage$HelloWorldMessageBuilder.class
+com\bmc\sfgjms\sender\HelloSender$1.class
+com\bmc\sfgjms\listener\HelloMessageListener.class
+com\bmc\sfgjms\config\JmsConfig.class
 com\bmc\sfgjms\SfgJmsApplication.class
